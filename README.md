@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Juan Dela Cruz
+# Hi there! 👋 I'm Charles Yestin Aldave
 
 I'm a passionate coder and database enthusiast, dedicated to solving complex problems and creating elegant solutions. My tech journey began with the BS Information Technology program, and I've been honing my skills ever since.
 
