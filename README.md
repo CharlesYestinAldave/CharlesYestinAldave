@@ -21,7 +21,7 @@ I'm a passionate coder and database enthusiast, dedicated to solving complex pro
 
 ## Connect with Me
 
-- 📧 **Email**: juandelacruz@gmail.com
+- 📧 **Email**: charlesyestinaldave@gmail.com
 - 💼 **[LinkedIn](LinkedIn_Profile_Link)**
 
 Feel free to reach out if you want to discuss coding, databases, or anything tech-related. Let's connect and learn together! 🚀
